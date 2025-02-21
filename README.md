@@ -12,7 +12,7 @@ Repositorio de Lectura y Debate de cada clase
 ```plaintext
 reading-notes/
 │── 201/
-│   ├── read01.md  # Clase 01: Introducción a Flexbox
+│   ├── read01.md  # Clase 01: HTML5 Semántico y A11y
 │   ├── read02.md  # Clase 02: Layout con Flexbox
 │── README.md  # Descripción general del repositorio
 ```
