@@ -17,5 +17,4 @@ reading-notes/
 │── README.md  # Descripción general del repositorio
 ```
 ---
-📝 **Autor:** [Eber Solano](https://github.com/eber2k1)  
-📌 **Repositorio:** [GitHub Pages](https://eber2k1.github.io/reading-notes/) 
+📝 **Autor:** [Eber Solano](https://github.com/eber2k1)
