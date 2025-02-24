@@ -6,7 +6,7 @@ Repositorio de Lectura y Debate de cada clase
 
 - [Clase 01: HTML5 Semántico y A11y ](https://eber2k1.github.io/reading-notes/201/read01)
 - [Clase 02: Layout con Flexbox](https://eber2k1.github.io/reading-notes/201/read02)
-- [Clase 03: CSS Grid Layout]()
+- [Clase 03: CSS Grid Layout](https://eber2k1.github.io/reading-notes/201/read03)
 
 ## 📂 Estructura del Repositorio  
 
