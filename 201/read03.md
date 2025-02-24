@@ -2,8 +2,7 @@
 
 | #  | Afirmación | Mito o Verdad | Explicación |
 |----|-----------|--------------|-------------|
-| 1  | CSS Grid reemplaza totalmente la necesidad de Flexbox. | ❌ Mito | CSS Grid y flexbox
-son herramientas con diferentes propósitos ya que el CSS Grid es para diseños más complejos y bidemensionales mientras que el Flexbox es para diseños más sencillos y unidimensionales. |
+| 1  | CSS Grid reemplaza totalmente la necesidad de Flexbox. | ❌ Mito | CSS Grid y flexbox son herramientas con diferentes propósitos ya que el CSS Grid es para diseños más complejos y bidemensionales mientras que el Flexbox es para diseños más sencillos y unidimensionales. |
 | 2  | Grid no es todavía una tecnología estable y confiable para proyectos en producción. | ❌ Mito | Grid es compatible para la mayoría de los navegadores modernos y reduce la cantidad de código CSS necesario para layouts complejos. |
 | 3  | Usar `display: grid` ; garantiza automáticamente que tu sitio sea responsive. | ❌ Mito | No, `display: grid` no garantiza automáticamente que tu sitio sea responsive debido a que tambien dependen del tamaño de las unidades, que elementos como las imagenes no se desborden y otras caracteristicas que se deben usar media queries. |
 | 4  | El uso de Grid Template Areas no aporta un valor real; es solo un ‘alias’ de filas y columnas. | ❌ Mito | No es solo un alias, sino una herramienta que mejora la legibilidad, la mantenibilidad y la responsividad de un diseño Grid. |
