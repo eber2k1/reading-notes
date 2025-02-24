@@ -1,15 +1,15 @@
-# Mitos y Verdades sobre CSS Grid Layout
+# MITOS Y VERDADES SOBRE CSS GRID LAYOUT
 
-| # | Afirmación | Mito o Verdad | Explicación |
+| #  | Afirmación | Mito o Verdad | Explicación |
 |----|-----------|--------------|-------------|
 | 1  | CSS Grid reemplaza totalmente la necesidad de Flexbox. | ❌ Mito | CSS Grid y flexbox
 son herramientas con diferentes propósitos ya que el CSS Grid es para diseños más complejos y bidemensionales mientras que el Flexbox es para diseños más sencillos y unidimensionales. |
 | 2  | Grid no es todavía una tecnología estable y confiable para proyectos en producción. | ❌ Mito | Grid es compatible para la mayoría de los navegadores modernos y reduce la cantidad de código CSS necesario para layouts complejos. |
 | 3  | Usar `display: grid` ; garantiza automáticamente que tu sitio sea responsive. | ❌ Mito | No, `display: grid` no garantiza automáticamente que tu sitio sea responsive debido a que tambien dependen del tamaño de las unidades, que elementos como las imagenes no se desborden y otras caracteristicas que se deben usar media queries. |
-| 4  | El uso de Grid Template Areas no aporta un valor real; es solo un ‘alias’ de filas y columnas. | ❌ Mito | No es solo un alias, sino una herramienta que mejora la legibilidad, la mantenibilidad y la responsividad de un diseño Grid.
+| 4  | El uso de Grid Template Areas no aporta un valor real; es solo un ‘alias’ de filas y columnas. | ❌ Mito | No es solo un alias, sino una herramienta que mejora la legibilidad, la mantenibilidad y la responsividad de un diseño Grid. |
 | 5  | Las propiedades de alineación (`justify-content, align-content`) no funcionan igual en Grid que en Flexbox | ✅ Verdad | Aunque tienen similitudes, hay diferencias clave. En Flexbox, afectan la distribución de los elementos dentro de un eje (horizontal o vertical). En Grid, afectan la distribución de las celdas dentro del contenedor. |
 | 6  | Para layouts simples, Grid es demasiado complejo y no vale la pena | ❌ Mito | Depende como escala el layout en un proyecto. |
 | 7  | Combinar Grid y Flexbox en un mismo proyecto genera confusión y no es recomendable | ❌ Mito | Usar ambos correctamente mejora la eficiencia.Grid para la estructura principal, Flexbox para alineaciones internas. |
 | 8  | Con Grid, ya no es necesario usar media queries para adaptar el diseño a distintas resoluciones | ❌ Mito | No, Grid facilita la adaptación de los layout ayudando a dstribuir los elementos contenidos. Pero, no ayuda a ajustar los tamaños de los elementos dentro del layout. |
 | 9  | Grid solo funciona bien en estructuras de 2D complejas; para un diseño de una sola dimensión, es ineficaz | ❌ Mito | Grid también puede ser útil en layouts de una sola dimensión sin necesidad de flexbox. |
-| 10 | Si la IA (p. ej. ChatGPT) genera un layout Grid, no hace falta validarlo manualmente  | ❌ Mito | La IA puede generar código, pero debe validarse manualmente para asegurarse de que cumpla con las necesidades específicas del proyecto. |
+| 10  | Si la IA (p. ej. ChatGPT) genera un layout Grid, no hace falta validarlo manualmente  | ❌ Mito | La IA puede generar código, pero debe validarse manualmente para asegurarse de que cumpla con las necesidades específicas del proyecto. |
