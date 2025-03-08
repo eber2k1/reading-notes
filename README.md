@@ -8,6 +8,7 @@ Repositorio de Lectura y Debate de cada clase
 - [Clase 02: Layout con Flexbox](https://eber2k1.github.io/reading-notes/201/read02)
 - [Clase 03: CSS Grid Layout](https://eber2k1.github.io/reading-notes/201/read03)
 - [Clase 04: Frameworks CSS y Git Branches](https://eber2k1.github.io/reading-notes/201/read04)
+- [Clase 06: Programación Funcional](https://eber2k1.github.io/reading-notes/201/read06)
 
 ## 📂 Estructura del Repositorio  
 
@@ -18,6 +19,7 @@ reading-notes/
 │   ├── read02.md  # Clase 02: Layout con Flexbox
 │   ├── read03.md  # Clase 03: CSS Grid Layout
 │   ├── read04.md  # Clase 04: Frameworks CSS y Git Branches
+|   ├── read06-md  # Clase 06: Programación funcional
 │── README.md  # Descripción general del repositorio
 ```
 ---
