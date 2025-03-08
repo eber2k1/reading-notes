@@ -1,6 +1,6 @@
 # FRAMEWORKS CSS y GIT BRANCHES 
 
-| #  | Pregunta |  | Respuesta |
+| #  | Pregunta | Respuesta |
 |----|-----------|--------------|
 | 1  | ¿Cómo difieren las Component Classes y Utility Classes en su uso diario? | | Component Classes (Bootstrap): Son clases predefinidas que encapsulan estilos completos en un solo nombre de clase. Ejemplo: `.btn-primary` ya incluye colores, tamaños y estilos.Utility Classes (Tailwind CSS): Son clases pequeñas y específicas que se combinan para dar forma a los elementos. Ejemplo: `bg-blue-500 text-white px-4 py-2 rounded-md.` |
 | 2  | ¿Cuándo es más eficiente utilizar Component Classes en lugar de Utility Classes? | | Cuando necesitas rapidez y coherencia en el diseño sin mucha personalización. |
