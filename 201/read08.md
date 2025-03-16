@@ -1,0 +1,9 @@
+# Tipos de objetos
+
+| #  | Afirmación | Mito o Verdad | Explicación |
+|----|-----------|--------------|-------------|
+| 1  | El `prototype` de una función y el `__proto__` de un objeto son exactamente lo mismo. | ❌ Mito | Aunque están relacionados, **no son lo mismo**. `prototype` es una propiedad de las funciones constructoras que define los métodos y propiedades que heredarán las instancias. `__proto__` es una referencia al prototipo del objeto y permite acceder a la cadena de prototipos. |
+| 2  | La cadena de prototipos permite la reutilización de métodos y propiedades, lo cual es esencial para la herencia en JavaScript. | ✅ Verdad | La cadena de prototipos permite que los objetos hereden métodos y propiedades de otros objetos, **facilitando la reutilización del código y evitando la duplicación**. Esto es la base del sistema de herencia en JavaScript. |
+| 3  | Las funciones constructoras son obsoletas y no se usan en el desarrollo moderno de JavaScript. | ❌ Mito | Aunque **las clases (`class`) introducidas en ES6 han simplificado la sintaxis**, las funciones constructoras **siguen siendo válidas y funcionales**, especialmente en código heredado o en contextos donde no se usan clases. |
+| 4  | Manipular correctamente `__proto__` puede mejorar la reutilización de código, pero su uso inadecuado puede generar problemas de seguridad y mantenimiento. | ✅ Verdad | Aunque modificar `__proto__` puede ser útil en ciertos casos, **su uso indebido puede provocar vulnerabilidades, afectar el rendimiento y hacer que el código sea difícil de depurar**. Es mejor usar `Object.create()` o `Object.setPrototypeOf()`. |
+| 5  | Modificar el `prototype` de una función siempre afecta a todas las instancias existentes sin excepción. | ❌ Mito | Si se modifica el `prototype` **después de haber creado instancias**, estas **no se verán afectadas** porque ya heredaron el `prototype` anterior. Solo las nuevas instancias reflejarán los cambios. |
