@@ -1,4 +1,4 @@
-# � READING-NOTES
+# 🚀 READING-NOTES
 
 <div align="center">
   
@@ -20,7 +20,7 @@
 
 ---
 
-## � Tabla de Contenidos
+## 📋 Tabla de Contenidos
 
 - [📚 Clases](#-clases)
 - [🔍 Estructura](#-estructura-del-repositorio)
@@ -88,9 +88,7 @@
 
 ## 📂 Estructura del Repositorio
 
-<div align="center">
-  
-```bash
+```
 📁 reading-notes/
 │
 ├── 📁 201/
@@ -106,34 +104,29 @@
 └── 📄 README.md      # Descripción general del repositorio
 ```
 
-</div>
-
 ---
 
 ## 🛠️ Cómo usar este repositorio
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 300px; margin: 10px; padding: 20px; border-radius: 10px; background-color: #f5f5f5;">
-    <h3>📖 Para estudiantes</h3>
-    <ul>
-      <li>Navega por las notas usando los enlaces de la tabla</li>
-      <li>Descarga o clona el repositorio para acceso offline</li>
-      <li>Comparte con tus compañeros de estudio</li>
-    </ul>
-  </div>
-  <div style="flex: 1; min-width: 300px; margin: 10px; padding: 20px; border-radius: 10px; background-color: #f5f5f5;">
-    <h3>🤝 Para colaboradores</h3>
-    <ul>
-      <li>Haz fork del repositorio</li>
-      <li>Crea una rama para tus cambios</li>
-      <li>Envía un pull request con tus mejoras</li>
-    </ul>
-  </div>
+<div>
+  <h3>📖 Para estudiantes</h3>
+  <ul>
+    <li>Navega por las notas usando los enlaces de la tabla</li>
+    <li>Descarga o clona el repositorio para acceso offline</li>
+    <li>Comparte con tus compañeros de estudio</li>
+  </ul>
+  
+  <h3>🤝 Para colaboradores</h3>
+  <ul>
+    <li>Haz fork del repositorio</li>
+    <li>Crea una rama para tus cambios</li>
+    <li>Envía un pull request con tus mejoras</li>
+  </ul>
 </div>
 
 ---
 
-## � Actualizaciones recientes
+## 🔄 Actualizaciones recientes
 
 - ✅ Añadidas notas sobre Programación Funcional
 - ✅ Añadidas notas sobre Programación Orientada a Objetos
