@@ -41,7 +41,7 @@
       <th>Enlace</th>
     </tr>
     <tr>
-      <td rowspan="8" align="center"><b>201</b></td>
+      <td rowspan="9" align="center"><b>201</b></td>
       <td align="center">01</td>
       <td>HTML5 Semántico y A11y</td>
       <td><a href="https://eber2k1.github.io/reading-notes/201/read01"><img src="https://img.shields.io/badge/Ver_Notas-37a779?style=flat"></a></td>
@@ -81,6 +81,11 @@
       <td>DOM como API de Objetos</td>
       <td><a href="https://eber2k1.github.io/reading-notes/201/read09"><img src="https://img.shields.io/badge/Ver_Notas-37a779?style=flat"></a></td>
     </tr>
+    <tr>
+      <td align="center">10</td>
+      <td>Funciones y callbacks</td>
+      <td><a href="https://eber2k1.github.io/reading-notes/201/read10"><img src="https://img.shields.io/badge/Ver_Notas-37a779?style=flat"></a></td>
+    </tr>
   </table>
 </div>
 
@@ -99,7 +104,8 @@
 │   ├── 📄 read06.md  # Clase 06: Programación Funcional
 │   ├── 📄 read07.md  # Clase 07: Programación Orientada a Objetos
 │   ├── 📄 read08.md  # Clase 08: Prototipos y Herencia
-│   └── 📄 read09.md  # Clase 09: DOM como API de Objetos
+│   ├── 📄 read09.md  # Clase 09: DOM como API de Objetos
+|   └── 📄 read10.md  # Clase 09: Funciones y callbacks
 │
 └── 📄 README.md      # Descripción general del repositorio
 ```
